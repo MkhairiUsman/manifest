@@ -1,0 +1,38 @@
+{
+  "name": “IDN PRIME NEWS”,
+  "short_name": “Idn Prime”,
+  "start_url": “https://www.idnprime.com”,
+  "display": "standalone",
+  "background_color": "#ff5722",
+  "theme_color": "#22140E",
+  "description": “Blog Berita Ter-update”,
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-xpDJi090S6I/XbLAsUdMtSI/AAAAAAAAAAM/N2Mv_9YJjpQ95Zo03OlcUAZ_EQNvD1BCwCLcBGAsYHQ/s48/idn.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xpDJi090S6I/XbLAsUdMtSI/AAAAAAAAAAM/N2Mv_9YJjpQ95Zo03OlcUAZ_EQNvD1BCwCLcBGAsYHQ/s72/idn.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xpDJi090S6I/XbLAsUdMtSI/AAAAAAAAAAM/N2Mv_9YJjpQ95Zo03OlcUAZ_EQNvD1BCwCLcBGAsYHQ/s96/idn.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xpDJi090S6I/XbLAsUdMtSI/AAAAAAAAAAM/N2Mv_9YJjpQ95Zo03OlcUAZ_EQNvD1BCwCLcBGAsYHQ/s144/idn.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xpDJi090S6I/XbLAsUdMtSI/AAAAAAAAAAM/N2Mv_9YJjpQ95Zo03OlcUAZ_EQNvD1BCwCLcBGAsYHQ/s168/idn.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xpDJi090S6I/XbLAsUdMtSI/AAAAAAAAAAM/N2Mv_9YJjpQ95Zo03OlcUAZ_EQNvD1BCwCLcBGAsYHQ/s192/idn.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-xpDJi090S6I/XbLAsUdMtSI/AAAAAAAAAAM/N2Mv_9YJjpQ95Zo03OlcUAZ_EQNvD1BCwCLcBGAsYHQ/s512/idn.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
